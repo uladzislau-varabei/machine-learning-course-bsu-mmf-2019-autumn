@@ -1,1 +1,1 @@
-# machine-learning-course-bsu-mmf-2019-autumn
+Машинное обучение, БГУ, ММФ, КМиСА, осень 2019
