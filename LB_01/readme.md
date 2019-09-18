@@ -18,7 +18,7 @@
 [Инструкции по установке](https://stackoverflow.com/questions/33749735/how-to-install-xgboost-package-in-python-windows-platform) XGBoost для Windows (см. ответ `brettlyman`).
 
 
-К работе прилагается (базовое решение)[https://nbviewer.jupyter.org/github/uladzislau-varabei/machine-learning-course-bsu-mmf-2019-autumn/blob/master/LB_01/Baseline.ipynb].
+К работе прилагается [базовое решение](https://nbviewer.jupyter.org/github/uladzislau-varabei/machine-learning-course-bsu-mmf-2019-autumn/blob/master/LB_01/Baseline.ipynb).
 
 
 ### 1. Подготовка
