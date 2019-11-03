@@ -1,9 +1,12 @@
-﻿# Лабораторная работа №5: Cвёрточные нейронные сети (CNN)
+﻿# Лабораторная работа №3: Cвёрточные нейронные сети (CNN)
 
 В данной работе вы будете работать с датасетом `CIFAR-10`. Ваша задача научиться предсказывать класс изображений. Целевая метрика — **accuracy**.
 
-Данную работу на выбор можно выполнять либо с использованием `Tensorflow` (для установки в `Anaconda Prompt` выполнить `conda install -c anaconda tensorflow`, 
-для gpu-версии — `conda install -c anaconda tensorflow-gpu`), либо `PyTorch` (для установки в `Anaconda Prompt` выполнить `conda install -c pytorch pytorch`).
+Данную работу на выбор можно выполнять либо с использованием `Tensorflow` 
+(для установки в `Anaconda Prompt` выполнить `conda install -c conda-forge tensorflow` (версия 1.13.2), 
+для [версии 2.0](https://www.tensorflow.org/guide/effective_tf2) рекомендуется следовать инструкциям по ссылке
+[Tensorflow 2.0 on Anaconda install guide](https://medium.com/@shaolinkhoa/install-tensorflow-gpu-2-0-alpha-on-anaconda-for-windows-10-ubuntu-ced099010b21)),
+либо `PyTorch` (для установки в `Anaconda Prompt` выполнить `conda install -c pytorch pytorch`).
 
 Для аугментаций рекомендуется использовать пакет `Albumentations` — https://github.com/albu/albumentations#conda
 
